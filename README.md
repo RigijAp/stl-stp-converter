@@ -12,8 +12,12 @@ ARTICLES:
 
  "Integration of CAD and CAE using Open Cascade Technology" 
  "Development of a CAD System Based on Open Cascade Technology" 
+
+ 
 LINKS:
 
  https://dev.opencascade.org/doc/overview/html/index.html
  https://github.com/tpaviot/pythonocc-core
+
+
 🐇 没有结果的话，不哭小兔子 🐇

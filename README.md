@@ -1,10 +1,9 @@
-To use the code, it is necessary to install pythonocc-core with conda:
+trimesh and os can be installed by pip. 
+To use the code, it is necessary to install pythonocc-core with conda (tf is a python 3.11 enviroment):
 
-conda activate tf
-conda install -c conda-forge pythonocc-core
-tf is a python 3.11 enviroment
+      conda activate tf
+      conda install -c conda-forge pythonocc-core
 
-trimesh and os can be installed by pip
 
 'stl' is the folder with .stl files, the files will be read automatically one by one, after the converting process, all .step files will be saved in the generated folder 'output' with the same names as .stl files
 

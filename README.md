@@ -9,14 +9,14 @@ To use the code, it is necessary to install pythonocc-core with conda (tf is a p
 
 ARTICLES:
 
- "Integration of CAD and CAE using Open Cascade Technology" 
- "Development of a CAD System Based on Open Cascade Technology" 
-
- 
+             "Integration of CAD and CAE using Open Cascade Technology" 
+             "Development of a CAD System Based on Open Cascade Technology" 
+            
+             
 LINKS:
 
- https://dev.opencascade.org/doc/overview/html/index.html
- https://github.com/tpaviot/pythonocc-core
+             https://dev.opencascade.org/doc/overview/html/index.html
+             https://github.com/tpaviot/pythonocc-core
 
 
 🐇 没有结果的话，不哭小兔子 🐇
